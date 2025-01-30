@@ -28,13 +28,13 @@ import beton from '../görseller/tum/Beton-__imento_ve_Zemin_Teknolojisi_E__itim
 import betonarme from '../görseller/tum/betonarme.png'
 import bilgdestend from '../görseller/tum/bilgisayar_destekli_end__striyel_modelleme.png'
 import bildesmak from '../görseller/tum/bilgisayar_destekli_makina_ressaml______.png'
-import bilmakimalat from '../görseller/tum/bilgisayarl___makine_imalat__.png'
+
 import bina from '../görseller/tum/bina_site.png'
 import bioenerji from '../görseller/tum/bioenerji.png'
 import bitkisel from '../görseller/tum/bitkisel_ya_____retimi.png'
 import bobinaj from '../görseller/tum/bobinaj_e__itimi.png'
 import borsa_teknik_analiz from '../görseller/tum/borsateknikanaliz.png'
-import borsa_temel_analiz from '../görseller/tum/borsa_temel_analiz.png'
+
 import boya from '../görseller/tum/boya___retimi_ve_kontrol___e__itimi.png'
 import tasisletme from '../görseller/tum/de__erli_ve_yar___de__erli_ta___iletmecili__i.png'
 import cam from '../görseller/tum/dekoratif_cam.png'
@@ -48,7 +48,7 @@ import dokumaoperator from '../görseller/tum/dokuma_operat__rl______.png'
 import editor from '../görseller/tum/edit__rl__k.png'
 import eldokuma from '../görseller/tum/el_dokuma.png'
 import elmakinenakisi from '../görseller/tum/el_ve_makine_nak______.png'
-import elektespan from '../görseller/tum/elektrik_tesisatlar___ve_pano_mont__rl_______e__itimi.png'
+
 import elekevalet from '../görseller/tum/elektrikli_ev_aletleri_teknik_servisi.png'
 import emlakdan from '../görseller/tum/emlak_dan____manl______.png'
 import endbitkiyet from '../görseller/tum/end__striyel_bitki_yeti__tiricili__i.png'
@@ -119,7 +119,7 @@ import motorluaraclarlpgsistemleri from '../görseller/tum/motorlu_ara__lar_LPG_
 import motosiklettamirciligi from '../görseller/tum/motosikler_tamircili__i.png'
 import muhabirlik from '../görseller/tum/muhabirlik.png'
 import networkmarketing from '../görseller/tum/network_marketing.png'
-import nlpmaster from '../görseller/tum/nlp_master.png'
+
 import nlp from '../görseller/tum/nlp.png'
 import numerolojimaster from '../görseller/tum/numeroloji_master.png'
 import numerolojiuygulayici from '../görseller/tum/numeroloji.png'
