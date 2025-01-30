@@ -140,7 +140,7 @@ import reborntherapyuygulayici from '../görseller/tum/reborn_therapy.png'
 import resimanaliziveyorumlama from '../görseller/tum/resimanaliziveyorumlama.png'
 import robotikkodlama from '../görseller/tum/robotik_kodlama.png'
 import saattamirciligi from '../görseller/tum/saat_tamirciligi.png'
-import saatisleri from '../görseller/tum/sacisleriegitimi.png'
+
 import sanayinakisi from '../görseller/tum/sanayi_nak______.png'
 import saraciyeuretimi from '../görseller/tum/saraciye___retimi_e__itimi.png'
 import saraciyemodelistligi from '../görseller/tum/saraciye_modelistli__i_e__itimi.png'
