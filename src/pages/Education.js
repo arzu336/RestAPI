@@ -233,6 +233,7 @@ function Education() {
             <li><button onClick={redirectToEducation}>EĞİTİMLERİMİZ</button></li>
             <li><button onClick={redirectToAbout}>KURUMSAL</button></li>
             <li><button onClick={redirectToContact}>İLETİŞİM</button></li>
+            
           </ul>
         </nav>
       </header>

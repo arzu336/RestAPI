@@ -38,6 +38,11 @@ function redirectToEducation() {
      window.location.href = '/education';
 }
 
+function redirectToAdminLogin() {
+     window.location.href = '/admin-login';
+}
+
+
 function Login() {
      return (
           <div className="login-page">
@@ -68,6 +73,8 @@ function Login() {
                               <li><button onClick={redirectToEducation}>EĞİTİMLERİMİZ</button></li>
                               <li><button onClick={redirectToAbout}>KURUMSAL</button></li>
                               <li><button onClick={redirectToContact}>İLETİŞİM</button></li>
+                              <li><button onClick={redirectToAdminLogin}>GİRİŞ</button></li>
+
                          </ul>
                     </nav>
                </header>
